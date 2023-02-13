@@ -20,13 +20,6 @@ public class Laptop {
         this.os = operationSystem;
     }
 
-    // public Integer generalID(Integer count) {
-    //     return ++count;
-    // }
-
-    
     public static void main(String[] args) {
-
     }
-    
 }

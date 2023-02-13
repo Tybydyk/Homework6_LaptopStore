@@ -35,9 +35,6 @@ public class Task6 {
         Laptop l18 = new Laptop("AMD", 15.60, 8, 256, "Free DOS");
         Laptop l19 = new Laptop("Intel", 13, 4, 128, "Linux");
         Laptop l20 = new Laptop("Intel", 13, 8, 1024, "Linux");
-        Laptop l22 = new Laptop("Intel", 14, 16, 256, "Linux");
-        System.out.println(l22.id);
-
 
     HashSet<Laptop> notes = new HashSet<Laptop>(Arrays.asList(l1, l2, l3, l4, l5, 
     l6, l7, l8, l9, l10, l11, l12, l13, l14, l15, l16, l17, l18, l19, l20));
