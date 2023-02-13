@@ -41,7 +41,7 @@ public class Task6 {
     HashSet<Laptop> selectedNotes1 = new HashSet<Laptop>();
     HashSet<Laptop> selectedNotes2 = new HashSet<Laptop>();
     
-    HashMap<Integer,String> mapForCh = new HashMap<Integer,String>();           //Filter
+    HashMap<Integer,String> mapForCh = new HashMap<Integer,String>();            //Filter
     mapForCh.put(11, "13"); mapForCh.put(12, "14"); mapForCh.put(13, "15.6");
     mapForCh.put(21, "Intel"); mapForCh.put(22, "AMD");
     mapForCh.put(31, "4"); mapForCh.put(32, "8");  mapForCh.put(33, "16");
